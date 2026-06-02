@@ -5,8 +5,7 @@
 ---
 
 ## Live Demo
-🔗 [novamark-digital.netlify.app](https://novamark-digital.netlify.app) ← replace with your actual URL
-
+🔗 https://leumaslarotrebor.github.io/novamark-digital/
 ---
 
 ## What I Built
